@@ -17,7 +17,7 @@
  
 2. Have PLY installed
     
-    ** - sudo apt-get install -y python3-ply**
+    **- sudo apt-get install -y python3-ply**
     
 3. Have PyQt5 
 
